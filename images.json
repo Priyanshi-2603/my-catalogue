@@ -237,7 +237,26 @@
   },
   {
     "category": "Hanuman set",
-    "images": []
+    "images": [
+      {
+        "id": "1Ta5RdjWEVDnTc127RECras9Jtr3eu8LQ",
+        "name": "IMG-20260308-WA0034.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1Ta5RdjWEVDnTc127RECras9Jtr3eu8LQ&sz=w800",
+        "date": "2026-05-09T08:04:43.181Z"
+      },
+      {
+        "id": "1e_b4MewyXtZMPGBzDA2UZu45QyKQXsAa",
+        "name": "IMG-20260312-WA0051.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1e_b4MewyXtZMPGBzDA2UZu45QyKQXsAa&sz=w800",
+        "date": "2026-05-09T08:04:42.854Z"
+      },
+      {
+        "id": "1CNXJbsa5fgHHYVXID7g7_hvKDZQAwl2I",
+        "name": "IMG-20260312-WA0050.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1CNXJbsa5fgHHYVXID7g7_hvKDZQAwl2I&sz=w800",
+        "date": "2026-05-09T08:04:42.653Z"
+      }
+    ]
   },
   {
     "category": "Ganesh Vastra",
