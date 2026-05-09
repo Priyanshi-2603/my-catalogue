@@ -154,7 +154,32 @@
   },
   {
     "category": "Patka",
-    "images": []
+    "images": [
+      {
+        "id": "1xG4IQt8KH_OdeDcxI9AYACfwhY9cZeud",
+        "name": "IMG-20250820-WA0006.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1xG4IQt8KH_OdeDcxI9AYACfwhY9cZeud&sz=w800",
+        "date": "2026-05-09T07:40:34.405Z"
+      },
+      {
+        "id": "1weLGHroAlrNPmogsxlVoHOSRMPhTMYR6",
+        "name": "IMG-20250821-WA0006.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1weLGHroAlrNPmogsxlVoHOSRMPhTMYR6&sz=w800",
+        "date": "2026-05-09T07:40:33.633Z"
+      },
+      {
+        "id": "1I28AtQaYcv11ptqvWbb1PiHxYbkUOe0O",
+        "name": "IMG-20260330-WA0018(1).jpg",
+        "url": "https://drive.google.com/thumbnail?id=1I28AtQaYcv11ptqvWbb1PiHxYbkUOe0O&sz=w800",
+        "date": "2026-05-09T07:40:32.115Z"
+      },
+      {
+        "id": "1utF16SiuKTuIBI8Lm52aCkqO0X6mnjX-",
+        "name": "IMG-20260327-WA0026.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1utF16SiuKTuIBI8Lm52aCkqO0X6mnjX-&sz=w800",
+        "date": "2026-05-09T07:40:31.208Z"
+      }
+    ]
   },
   {
     "category": "Mukut",
